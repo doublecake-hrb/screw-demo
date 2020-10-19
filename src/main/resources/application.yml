@@ -1,0 +1,10 @@
+jdbc:
+  driverClassName: com.mysql.cj.jdbc.Driver
+  jdbcUrl: jdbc:mysql://localhost:3306/meeting_450?serverTimezone=UTC
+  username: root
+  password: root
+
+screw:
+  fileOutputDir: D:\\dataBaseNode
+  version: 1.0.0
+  description: 数据库文档生成
